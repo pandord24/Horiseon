@@ -11,7 +11,7 @@ The goal of this project is to practice and gain knowledge of writing HTML with 
 
 ## Usage
 
-https://pandord24.github.io/Module-1-accessibility-standards/
+https://pandord24.github.io/Horiseon/
 
 By clicking the link provided, you can access the project hosted by github.
 ![Heriseo website screen shot](./assets/images/Capture.PNG)
